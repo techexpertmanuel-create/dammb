@@ -1,0 +1,12 @@
+{
+  "name": "DigiTech Analyst Manuel Mentorship BootCamp (DAMM-B)",
+  "short_name": "DAMM-B",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070b16",
+  "theme_color": "#0b1020",
+  "description": "Smartphone-first vibe coding mentorship registration.",
+  "icons": [
+    {"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
